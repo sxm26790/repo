@@ -1,1 +1,2 @@
 sample 2 file created for second ine
+next line is added to sample2
