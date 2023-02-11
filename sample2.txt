@@ -4,3 +4,4 @@ to update the pull changes
 .gitrepo has created
 key-gen created
 keygen
+to check the branches
