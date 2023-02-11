@@ -4,6 +4,8 @@ to update the pull changes
 .gitrepo has created
 key-gen created
 keygen
+<<<<<<< HEAD
 new branch created that is feature2
+=======
 to check the branches
-this is to learn the technical knowledge
+>>>>>>> feature2
