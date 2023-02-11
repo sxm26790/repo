@@ -1,0 +1,11 @@
+sample 2 file created for second ine
+next line is added to sample2
+to update the pull changes
+.gitrepo has created
+key-gen created
+keygen
+<<<<<<< HEAD
+new branch created that is feature2
+=======
+to check the branches
+>>>>>>> feature2
