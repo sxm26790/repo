@@ -6,4 +6,14 @@ key-gen created
 keygen
 new branch created that is feature2
 to check the branches
+<<<<<<< HEAD
 
+=======
+this is to learn the technical knowledge
+this is the new like for feature branch
+six lines in the file
+line from dev
+reverting the changes
+staging area
+5th line 
+>>>>>>> 061fda9 (5th line)
