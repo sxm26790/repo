@@ -7,8 +7,11 @@ keygen
 new branch created that is feature2
 to check the branches
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
+=======
+>>>>>>> feature-br1
 this is to learn the technical knowledge
 this is the new like for feature branch
 six lines in the file
@@ -17,6 +20,10 @@ reverting the changes
 staging area
 5th line 
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 061fda9 (5th line)
 =======
 >>>>>>> 061fda9 (5th line)
+=======
+6th line 
+>>>>>>> feature-br1
