@@ -10,3 +10,5 @@ this is to learn the technical knowledge
 this is the new like for feature branch
 six lines in the file
 line from dev
+reverting the changes
+staging area
