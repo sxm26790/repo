@@ -16,4 +16,7 @@ line from dev
 reverting the changes
 staging area
 5th line 
+<<<<<<< HEAD
+>>>>>>> 061fda9 (5th line)
+=======
 >>>>>>> 061fda9 (5th line)
